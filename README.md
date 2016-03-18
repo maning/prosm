@@ -39,4 +39,9 @@ Get your story
 sh prosm <username>
 ```
 
+**Credits**
+
+* OpenStreetMap Contributors, http://osm.org
+* How did you contribute to OpenStreetMap?, http://hdyc.neis-one.org/
+
 
