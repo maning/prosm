@@ -9,6 +9,7 @@ ____________ _____ ________  ___
                                 
 ```
 
+[![prosm](https://cloud.githubusercontent.com/assets/353700/13880355/dd87e486-ed41-11e5-91c1-32c4b36cb0f6.gif)](https://www.youtube.com/watch?v=vqqGptyKaYk&feature=youtu.be)
 
 **Install dependencies with homebrew**
 
@@ -36,7 +37,7 @@ mapbox --access-token MY_TOKEN ...
 Get your story
 
 ```
-sh prosm <username>
+sh prosm.sh <username>
 ```
 
 **Credits**
