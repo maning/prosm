@@ -11,6 +11,8 @@ ____________ _____ ________  ___
 
 [![prosm](https://cloud.githubusercontent.com/assets/353700/13880355/dd87e486-ed41-11e5-91c1-32c4b36cb0f6.gif)](https://www.youtube.com/watch?v=vqqGptyKaYk&feature=youtu.be)
 
+**[Why?](https://www.openstreetmap.org/user/manings/diary/38182)**
+
 **Install dependencies with homebrew**
 
 ```
@@ -44,5 +46,5 @@ sh prosm.sh <username>
 
 * OpenStreetMap Contributors, http://osm.org
 * How did you contribute to OpenStreetMap?, http://hdyc.neis-one.org/
-
+* Mapbox Geocoding, https://www.mapbox.com/geocoding/
 
